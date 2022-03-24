@@ -4,3 +4,4 @@ I've been learning pytorch from scrach recently, and I'll implement some models 
 
 1. **Fully Connected Neural Network**
 2. **Convolutional Neural Network**
+3. **Recurrent Neural Network**
